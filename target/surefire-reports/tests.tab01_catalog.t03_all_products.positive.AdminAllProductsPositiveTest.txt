@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: tests.tab01_catalog.t03_all_products.positive.AdminAllProductsPositiveTest
--------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 299.414 s - in tests.tab01_catalog.t03_all_products.positive.AdminAllProductsPositiveTest
