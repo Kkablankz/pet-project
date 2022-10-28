@@ -1,0 +1,10 @@
+base\BasePage.class
+pages\static_pages\StaticButton.class
+contants\Contants.class
+pages\pop_up\SearchButtonSelectPopUp.class
+pages\tab\Tab.class
+common\CommonActions.class
+common\Config.class
+contants\Contants$TimeOutVariables.class
+pages\authorization\Authorization.class
+pages\pop_up\AddPopUp.class

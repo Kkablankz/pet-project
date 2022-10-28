@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.tab01_catalog.t03_all_products.positive.AllProducts03Test
+-------------------------------------------------------------------------------
+Tests run: 57, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 299.306 s - in tests.tab01_catalog.t03_all_products.positive.AllProducts03Test

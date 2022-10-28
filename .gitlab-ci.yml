@@ -1,0 +1,17 @@
+stages:
+  - test
+
+test:
+  image: markhobson/maven-chrome
+  stage: test
+  script:
+    - ls
+    - mvn test  -Dtest=tests.authorization.positive.AuthorizationPositiveTest
+    - mvn allure:report
+    - mvn surefire-report:report
+    - allure generate target/allure-result
+    - allure open allure-report
+  artifacts:
+    name: "$CI_JOB_NAME"
+    paths:
+      - target/
